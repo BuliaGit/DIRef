@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConfigServices": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "UserName": "EnvLJQ",
+        "SmtpServer": "Env.com",
+        "PassWord": "EnvPwd"
+      }
+    }
+  }
+}
